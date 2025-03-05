@@ -44,7 +44,7 @@ Kite AI Automation is a Python script that automates interactions with Kite AI a
 1. **Run the script**:
 
    ```bash
-   python auto.py
+   python new.py
    ```
 
 2. **Monitor the output**:
